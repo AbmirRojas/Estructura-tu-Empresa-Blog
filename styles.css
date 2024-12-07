@@ -1,0 +1,56 @@
+
+
+.icon-color{
+    color: #365486;
+}
+
+.header-color{
+    background-color: #7FC7D9;
+}
+
+.raleway-heading-nav {
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 240;
+  font-style: normal;
+}
+
+.color-nav{
+    color: #DCF2F1;
+}
+
+.link-color{
+    color: #DCF2F1;
+    background-color: #365486;
+}
+
+.button-color{
+    background-color: #365486;
+}
+
+.button-color-outline{
+    color: #365486;
+}
+
+.img-size{
+    width: 750px;
+}
+
+.list{
+    list-style-type: circle;
+}
+
+.container > .img-size{
+    width: 700px;
+}
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@240&display=swap');
+
+
+
